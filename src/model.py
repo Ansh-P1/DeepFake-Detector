@@ -4,7 +4,7 @@ src/model.py — Phase 2: Model Architecture (Transfer Learning)
 ================================================================================
 
 WHY TRANSFER LEARNING?
-----------------------
+---------------------
 Training a deep CNN from scratch for binary image classification requires
 millions of labelled examples and days of compute.  Transfer learning lets
 us "steal" general visual features (edges, textures, shapes) already learned
